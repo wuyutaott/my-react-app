@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>© 2021 My React App</p>
+      <p>© {new Date().getFullYear()} My React App</p>
     </footer>
   );
 }
