@@ -1,7 +1,13 @@
 # React + Vite
 
-# 创建工程
+# Ref
+https://www.youtube.com/watch?v=CgkZ7MvWUAA
+
+# create project
 npm create vite@latest
 
-# 安装依赖
+# install dependencies
 npm install
+
+# run dev
+npm run dev
