@@ -1,8 +1,10 @@
 .student {
-    border: 1px solid #ccc;
-    box-shadow: 0 2px 3px #ccc;
-    padding: 20px;
-    margin: 10px;
-    width: 50%;
-    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    padding: 10px;
+    border: 1px solid hsla(0, 0%, 50%, 0.8);
+}
+
+.student p {
+    margin: 0;
 }
